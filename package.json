@@ -1,0 +1,15 @@
+{
+  "name": "docker-app-scalability",
+  "version": "1.0.0",
+  "description": "A tiny example of app scalability using docker --scale argument.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pm2": "^5.3.0"
+  }
+}
